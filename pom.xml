@@ -97,7 +97,7 @@
 			<artifactId>LightAPI-Fork</artifactId>
 			<scope>system</scope>
 			<version>1.0</version>
-			<systemPath>C:\Users\LOOHP\Desktop\NarMap\Server\plugins\LightAPI-fork-3.4.5.jar</systemPath>
+			<systemPath>${basedir}/lib/LightAPI-fork-3.4.5.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>com.github.Trigary</groupId>
@@ -127,7 +127,7 @@
 			<artifactId>Paper</artifactId>
 			<scope>system</scope>
 			<version>1.0</version>
-			<systemPath>C:\Users\LOOHP\Desktop\NarMap\Server\cache\patched_1.16.3.jar</systemPath>
+			<systemPath>${basedir}/lib/patched_1.16.3.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>net.milkbowl.vault</groupId>
@@ -147,7 +147,7 @@
 			<artifactId>Denizen</artifactId>
 			<scope>system</scope>
 			<version>1.0</version>
-			<systemPath>C:\Users\LOOHP\Desktop\NarMap\Server\plugins\Denizen-1.1.7-b5072-DEV.jar</systemPath>
+			<systemPath>${basedir}/lib/Denizen-1.1.7-b5072-DEV.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>com.sk89q.worldedit</groupId>
